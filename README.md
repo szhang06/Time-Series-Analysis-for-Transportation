@@ -4,6 +4,11 @@
 
 The **22nd Century Sporting League** aims to optimize transportation logistics for the **2102 season** by determining the **minimum number of jets** required and calculating the **total fuel cost** based on forecasted fuel prices.
 
+### ****Data Provided****
+1. team_flights.csv: Contains flight schedules for teams, including departure and landing times.
+
+2. fuel_price.csv: Contains daily fuel prices for the 2101 season.
+
 ### ****Method****
 
 1. **Analyze Flight Data**:
